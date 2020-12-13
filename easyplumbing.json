@@ -4,6 +4,14 @@
     {
     "JobDifficulty":"Difficult",
     "JobName":"Replace Sink",
+    },
+    {
+    "JobDifficulty":"Easy",
+    "JobName":"Replace Toilet",
+    },
+     {
+    "JobDifficulty":"Medium",
+    "JobName":"Replace Sink",
     }
   ],
   "Status":"OK"
