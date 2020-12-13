@@ -4,26 +4,29 @@
     {
     "JobDifficulty":"Difficult",
     "JobName":"Replace Sink",
-    "JobWebsite":"ReplaceSink.com",
-    "JobTools":"15mm Wrench",
+    "JobWebsite":"https://youtu.be/qBXJ_9Yh__U",
+    "JobTools":"Wrench,Channel lock",
     "JobImage":"https://raw.githubusercontent.com/nrosale/final_proj_repo/main/sink.png",
-    "JobTotalTime":"30 Min"
+    "JobTotalTime":"30 Min",
+    "JobImageInstructions":"https://raw.githubusercontent.com/nrosale/final_proj_repo/main/sinkinstructions.png"
     },
     {
     "JobDifficulty":"Easy",
     "JobName":"Replace Toilet",
-    "JobWebsite":"ReplaceSink.com",
-    "JobTools":"15mm Wrench",
+    "JobWebsite":"https://youtu.be/Y_hVZ3rPzm4",
+    "JobTools":"Wrench",
     "JobImage":"https://raw.githubusercontent.com/nrosale/final_proj_repo/main/toilet.png",
-    "JobTotalTime":"20 Min"
+    "JobTotalTime":"20 Min",
+    "JobImageInstructions":"https://raw.githubusercontent.com/nrosale/final_proj_repo/main/toiletinstructions1.png"
     },
      {
     "JobDifficulty":"Medium",
     "JobName":"Replace Faucet",
-    "JobWebsite":"ReplaceSink.com",
-    "JobTools":"15mm Wrench",
+    "JobWebsite":"https://youtu.be/APQbw7wi0Sc",
+    "JobTools":"Wrench",
     "JobImage":"https://raw.githubusercontent.com/nrosale/final_proj_repo/main/faucet.png",
-    "JobTotalTime":"40 Min"
+    "JobTotalTime":"40 Min",
+    "JobImageInstructions":"https://raw.githubusercontent.com/nrosale/final_proj_repo/main/faucetinstructions1.png"
     }
   ],
   "Status":"OK"
