@@ -6,7 +6,7 @@
     "JobName":"Replace Sink",
     "JobWebsite":"ReplaceSink.com",
     "JobTools":"15mm Wrench",
-    "JobImage":"image.jgp",
+    "JobImage":"https://raw.githubusercontent.com/nrosale/final_proj_repo/main/toiletinstructions1.png",
     "JobTotalTime":"30 Min"
     },
     {
@@ -14,7 +14,7 @@
     "JobName":"Replace Toilet",
     "JobWebsite":"ReplaceSink.com",
     "JobTools":"15mm Wrench",
-    "JobImage":"image.jgp",
+    "JobImage":"https://raw.githubusercontent.com/nrosale/final_proj_repo/main/toiletinstructions1.png",
     "JobTotalTime":"20 Min"
     },
      {
@@ -22,7 +22,7 @@
     "JobName":"Replace Sink",
     "JobWebsite":"ReplaceSink.com",
     "JobTools":"15mm Wrench",
-    "JobImage":"image.jgp",
+    "JobImage":"https://raw.githubusercontent.com/nrosale/final_proj_repo/main/toiletinstructions1.png",
     "JobTotalTime":"40 Min"
     }
   ],
