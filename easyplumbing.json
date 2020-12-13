@@ -4,14 +4,26 @@
     {
     "JobDifficulty":"Difficult",
     "JobName":"Replace Sink",
+    "JobWebsite":"ReplaceSink.com",
+    "JobTools":"15mm Wrench",
+    "JobImage":"image.jgp",
+    "JobTotalTime":"30 Min"
     },
     {
     "JobDifficulty":"Easy",
     "JobName":"Replace Toilet",
+    "JobWebsite":"ReplaceSink.com",
+    "JobTools":"15mm Wrench",
+    "JobImage":"image.jgp",
+    "JobTotalTime":"20 Min"
     },
      {
     "JobDifficulty":"Medium",
     "JobName":"Replace Sink",
+    "JobWebsite":"ReplaceSink.com",
+    "JobTools":"15mm Wrench",
+    "JobImage":"image.jgp",
+    "JobTotalTime":"40 Min"
     }
   ],
   "Status":"OK"
